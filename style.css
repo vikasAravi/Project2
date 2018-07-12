@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Alegreya SC');
+@import url('https://fonts.googleapis.com/css?family=Amarante');
+@import url('https://fonts.googleapis.com/css?family=Architects Daughter');
+@import url('https://fonts.googleapis.com/css?family=Asul');
+@import url('https://fonts.googleapis.com/css?family=Averia Gruesa Libre');
+*{
+	margin:0%;
+	padding:0%;
+}
+.header{
+	text-align:center;
+	font-size:20px;
+	font-family:Acme;
+	background-color:grey;
+	color:black;
+	padding:0%;
+}
+.header h3{
+	padding-top:10px;
+	padding-bottom:25px;
+}
+.venue{
+    text-align:center;
+    background-color:grey;
+    font-family:Alegreya SC;
+    font-size:25px;
+    color:white;
+    padding:bottom:10px;
+    margin:0;
+}
+.venue h3{
+	padding:0px;
+}
+
+.topics ol{
+	list-style-type:none; 
+	padding-left:500px;
+    font-family:Averia Gruesa Libre;
+    font-size:20px;
+    background-color: lightgrey;
+}
+.topics h3{
+    font-family:Amarante;
+    font-size:25px;
+    background-color:lightgreen;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#individual{
+	font-size:25px;
+	font-family:Asul;
+	background-color: lightgrey;
+}
+.detail h1{
+	font-family:Acme;
+	font-size:25px;
+}
+.detail{
+	background-color:lightblue;
+}
+.detail h2{
+	padding-left:250px;
+}
+.detail p{
+	padding-left:400px;
+	font-size:20px;
+	font-family:Averia Gruesa Libre;
+}
+#a{
+	float:right;
+	padding-bottom:120%;
+}
+.detail h1{
+	background-color:lightgreen;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+
